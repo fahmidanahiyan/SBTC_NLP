@@ -81,6 +81,8 @@ Confusion matrix of the 5 transformer-based models-
 
 XLM-RoBERTa outperformed all the other models achieving 91.56% accuracy, 91.62% precision, 91.60% recall and 91.58% f1-score.
 
-
-
+##### Publication
+The full research work is officially published in the 4th International Conference on Robotics, Electrical and Signal Processing Techniques 2025. Read the full paper in IEEE Xplore:
+https://ieeexplore.ieee.org/document/10914463
+DOI: 10.1109/ICREST63960.2025.10914463s
 
